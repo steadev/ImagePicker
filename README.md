@@ -132,6 +132,9 @@ Code(FakeR) was also taken from the phonegap BarCodeScanner plugin.  This code u
 
 https://github.com/wildabeast/BarcodeScanner
 
+#### 2021.01.06 - Korean added
+Supporting Korean both android and ios
+
 ## License
 
 The MIT License
